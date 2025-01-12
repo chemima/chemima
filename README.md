@@ -1,5 +1,6 @@
-## Hi, I'm chemima. 👋
+## Hi👋
 
+I'm majoring in physics and double majoring in computer engineering at POSTECH.
 <!--
 **chemima/chemima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
