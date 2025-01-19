@@ -2,7 +2,7 @@
 
 I'm chemima.
 
-I'm majoring in Physics and double majoring in Computer Science & Engineering at POSTECH.
+I'm double majoring in Physics and Computer Science & Engineering at POSTECH.
 <!--
 **chemima/chemima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
